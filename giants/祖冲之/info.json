@@ -1,0 +1,67 @@
+{
+  "name": "祖冲之",
+  "name_en": "Zu Chongzhi",
+  "born": "公元429年",
+  "died": "公元500年",
+  "origin": "范阳郡遒县（今河北省涞水县）",
+  "birthplace": "建康（今南京）",
+  "era": "南北朝时期（南朝宋、齐）",
+  "title": "数学家、天文学家、机械制造家",
+  "style_name": "文远",
+  "occupation": "数学家、天文学家、工程师",
+  "biography": "祖冲之出身官宦世家，自幼对数学和天文历法有浓厚兴趣。他一生钻研自然科学，主要贡献在数学、天文历法和机械制造三方面。曾任南徐州从事史、公府参军、娄县令、谒者仆射、长水校尉等职。他将圆周率精确到小数点后第七位，这一成就领先世界近千年，直到15世纪才被阿拉伯数学家卡西打破。",
+  "major_works": [
+    {
+      "title": "缀术",
+      "title_en": "Mathematical Methods",
+      "description": "祖冲之最重要的数学著作，被收入《算经十书》，唐代列为国子监教材，后因深奥而失传"
+    },
+    {
+      "title": "大明历",
+      "title_en": "Daming Calendar",
+      "description": "祖冲之于462年编制的历法，最早将岁差引入历法，是当时最先进的历法"
+    },
+    {
+      "title": "述异记",
+      "title_en": "Accounts of Extraordinary Things",
+      "description": "志怪小说，展现了祖冲之在文学方面的造诣"
+    }
+  ],
+  "contributions": [
+    "圆周率精算到小数点后7位（3.1415926~3.1415927）",
+    "提出约率22/7和密率355/113",
+    "与子祖暅解决球体积问题（牟合方盖法）",
+    "编制《大明历》，引入岁差",
+    "设计制造指南车、千里船、水碓磨等机械",
+    "测定精密天文数据（回归年365.2428日）"
+  ],
+  "pi_calculation": {
+    "lower_bound": 3.1415926,
+    "upper_bound": 3.1415927,
+    "approximate_rate": "22/7 ≈ 3.14",
+    "close_rate": "355/113 ≈ 3.1415929",
+    "method": "继承刘徽割圆术"
+  },
+  "astronomy": {
+    "calendar": "大明历",
+    "tropical_year": "365.2428日",
+    "nodal_month": "27.21223日",
+    "leap_year_system": "391年144闰月",
+    "innovation": "首次将岁差引入历法"
+  },
+  "mechanical_inventions": [
+    "水碓磨（利用水力加工粮食）",
+    "指南车（铜制机件传动）",
+    "千里船（日行百里）",
+    "漏壶（计时器）",
+    "欹器（巧妙的注水容器）"
+  ],
+  "famous_saying": "探千载之未得要,敷精密之物理",
+  "sources": [
+    "百度百科 - https://baike.baidu.com/item/祖冲之/121104",
+    "搜狗百科 - https://baike.sogou.com/v119026.htm",
+    "搜狐 - https://www.sohu.com/a/705146460_121330872/"
+  ],
+  "created": "2026-04-08",
+  "related_to": ["刘徽", "欧几里得", "阿基米德"]
+}
