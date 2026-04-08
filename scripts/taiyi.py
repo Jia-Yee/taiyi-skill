@@ -3,7 +3,6 @@
 Taiyi - 虚拟人物人格管理脚本
 用于创建、存储和管理虚拟人物人格
 """
-
 import os
 import json
 import sys
