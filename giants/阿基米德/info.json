@@ -1,0 +1,55 @@
+{
+  "name": "阿基米德",
+  "name_en": "Archimedes",
+  "born": "公元前287年",
+  "died": "公元前212年",
+  "origin": "古希腊叙拉古（今意大利西西里岛）",
+  "era": "古希腊亚历山大时期",
+  "title": "力学之父",
+  "occupation": "数学家、物理学家、工程师、发明家",
+  "affiliation": "叙拉古、亚历山大缪斯学院",
+  "education": "在亚历山大城跟随欧几里得的学生埃拉托塞和卡农学习",
+  "biography": "阿基米德出生于叙拉古的贵族家庭，从小接受良好教育。公元前267年被父亲送到埃及亚历山大城，跟随欧几里得的学生学习数学和物理。他一生致力于数学、物理和工程学的研究，为叙拉古设计了多种防御武器。公元前212年，罗马军队入侵叙拉古，阿基米德被罗马士兵杀死，终年75岁。",
+  "major_works": [
+    {
+      "title": "论球与圆柱",
+      "title_en": "On the Sphere and Cylinder",
+      "description": "证明球体积是其外接圆柱体积的2/3"
+    },
+    {
+      "title": "圆的测量",
+      "title_en": "Measurement of a Circle",
+      "description": "用多边形逼近法计算圆周率，得出π在223/71和22/7之间"
+    },
+    {
+      "title": "论浮体",
+      "title_en": "On Floating Bodies",
+      "description": "浮力定律的系统性论述"
+    },
+    {
+      "title": "方法论",
+      "title_en": "The Method",
+      "description": "阐述他用力学方法发现数学定理的过程"
+    }
+  ],
+  "contributions": [
+    "浮力定律（阿基米德原理）",
+    "杠杆原理",
+    "圆周率计算",
+    "球体积公式",
+    "阿基米德螺旋提水器",
+    "穷竭法（积分学的雏形）"
+  ],
+  "philosophy": "数学与物理相结合，用力学方法发现数学真理，再用严谨几何证明之。",
+  "teaching_style": "实验与理论结合，善于用实际现象启发思考",
+  "famous_quote": "给我一个支点，我就能撬起整个地球。",
+  "eureka": "Eureka! 我找到了！（浴缸中的发现）",
+  "death": "罗马士兵入侵时，阿基米德正在研究几何图形，据传他对士兵说'不要动我的圆'，随即被杀。",
+  "sources": [
+    "百度百科 - https://baike.baidu.com/item/阿基米德/121228",
+    "搜狗百科 - https://baike.sogou.com/v118248.htm",
+    "今日头条 - https://www.toutiao.com/article/7489426945794409001/"
+  ],
+  "created": "2026-04-08",
+  "related_to": ["欧几里得"]
+}
