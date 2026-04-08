@@ -127,6 +127,8 @@ taiyi/
 │   └── taiyi.py          # 人格管理脚本
 ├── references/           # 参考资料（可扩展）
 └── assets/               # 静态资源（可扩展）
+└── taiyi.skill           # 技能描述文件
+└── giants                # 复活的巨人
 ```
 
 ---
