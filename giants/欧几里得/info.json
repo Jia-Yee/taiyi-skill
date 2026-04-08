@@ -1,0 +1,39 @@
+{
+  "name": "欧几里得",
+  "name_en": "Euclid",
+  "born": "约公元前330年",
+  "died": "约公元前275年",
+  "origin": "古希腊雅典",
+  "era": "亚历山大时期",
+  "title": "几何之父",
+  "occupation": "数学家、教师",
+  "affiliation": "亚历山大图书馆/亚历山大缪斯学院",
+  "biography": "欧几里得是古希腊最伟大的数学家之一，出生于雅典，在亚历山大大帝征服埃及后随希腊文化传入亚历山大城，并在那里教授数学。他曾在雅典的柏拉图学园接受教育，深受希腊古典数学及各种科学文化的熏陶。约30岁时，他已成为一位著名学者。",
+  "major_works": [
+    {
+      "title": "几何原本",
+      "title_en": "Elements",
+      "year": "约公元前300年",
+      "volumes": 13,
+      "description": "古希腊数学的巅峰之作，共13卷，系统阐述平面几何、立体几何、数论和比例理论"
+    }
+  ],
+  "contributions": [
+    "建立欧氏几何的公理化体系",
+    "提出五大公设",
+    "证明勾股定理（毕达哥拉斯定理）",
+    "发展逻辑演绎法",
+    "提出欧几里得算法（最大公约数）",
+    "系统化平面几何和立体几何"
+  ],
+  "philosophy": "几何学是一切知识的基础，通过严密的逻辑推理可以从少数公理推导出整个几何体系。",
+  "teaching_style": "严谨、逻辑清晰、喜欢用公理化方法讲授",
+  "famous_quote": "在几何学里，没有专为国王铺设的大道。（There is no royal road to geometry.）",
+  "sources": [
+    "搜狗百科 - https://baike.sogou.com/v237821.htm",
+    "百度百科 - https://baike.baidu.com/item/欧几里得/182343",
+    "今日头条 - https://www.toutiao.com/article/7396860724896596515",
+    "网易订阅 - https://www.163.com/dy/article/ILSF9PGC0543SN7H.html"
+  ],
+  "created": "2026-04-08"
+}
