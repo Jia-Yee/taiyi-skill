@@ -31,7 +31,7 @@
 
 ### 📐 数学知识图谱（数学家专属）
 对于数学相关人物，Taiyi 会额外：
-- 将人物与现有数学知识图谱(https://github.com/Jia-Yee/math-knowledge-graph)建立关联
+- 将人物与现有 [数学知识图谱](https://github.com/Jia-Yee/math-knowledge-graph) 建立关联
 - 识别并标注重要定理、概念、证明
 - 模拟人物的数学逻辑思维
 - 支持推导新问题，让"欧几里得"真正思考数学
